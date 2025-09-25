@@ -5,6 +5,8 @@ draft: false
 file: /courses/9-20-animal-behavior-fall-2013/mit9_20f13_lec01_captions.vtt
 file_size: 78244
 file_type: text/vtt
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

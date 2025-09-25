@@ -5,6 +5,8 @@ draft: false
 file: /courses/9-20-animal-behavior-fall-2013/mit9_20f13_lec09_transcript.pdf
 file_size: 64040
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

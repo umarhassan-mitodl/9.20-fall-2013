@@ -1,0 +1,50 @@
+{
+  "term": "Fall",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Ecology"
+    ]
+  ],
+  "legacy_uid": "00e1234b-e19d-50c1-e9ce-960ae85f68cd",
+  "instructors": {
+    "content": [
+      "62fb6017-6afd-4c1d-95a2-66f739afd718"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d9241d6b-1c35-ce1a-454d-77032ea1cbe4",
+    "website": "9-20-animal-behavior-fall-2013"
+  },
+  "course_title": "Animal Behavior",
+  "course_description": "The introductory topics will cover various approaches to the study of animals and their behavior. Key concepts in studies of animal behavior, emphasizing ethology, are covered in class and in the assigned readings from Scott (2005), supplemented by selections from other books, especially from classics in the field as well as selected videos. Next, key concepts in sociobiology are covered using readings from Alcock (2001), supplemented by selections from additional books and some video presentations.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.20",
+  "course_image_thumbnail": {
+    "content": "a00dab08-3867-6b9f-edad-96ac2ee0615d",
+    "website": "9-20-animal-behavior-fall-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Audio",
+    "Lecture Notes",
+    "Presentation Assignments with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "b2cfcfb7-7ecc-445d-bd47-c2079595c2da",
+  "site_short_id": "9.20-fall-2013",
+  "site_url_path": "courses/9-20-animal-behavior-fall-2013",
+  "title": "Course Metadata"
+}
